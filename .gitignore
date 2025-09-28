@@ -1,0 +1,17 @@
+# Dossiers de test locaux
+test_sweep/
+temp/
+*.txt
+.idea/
+
+# Environnement virtuel
+venv/
+env/
+.venv/
+
+# Fichiers journaux générés (optionnel — tu peux aussi les garder si tu veux les versionner)
+.erabytse_journal.json
+
+# Fichiers système
+.DS_Store
+Thumbs.db
