@@ -34,5 +34,6 @@ No file is ever deleted automatically — you decide what happens next.
 📜 License
 MIT — but used with intention.
 
-Part of erabytse — a quiet rebellion against digital waste.
+Part of **[erabytse](https://erabytse.github.io)** — a quiet rebellion against digital waste.
+
 Made with care, not with noise.
