@@ -17,11 +17,9 @@
 
 ## 🚀 Quick Start
 
-### Install (development mode)
-
-git clone https://github.com/takouzlo/erabytse-sweep.git
-cd erabytse-sweep
-pip install -e .
+### Install from PyPI
+bash
+pip install erabytse-swee
 
 Run a dry run
 erabytse-sweep --path ~/Downloads --days 60 --dry-run
@@ -37,3 +35,4 @@ MIT — but used with intention.
 Part of **[erabytse](https://erabytse.github.io)** — a quiet rebellion against digital waste.
 
 Made with care, not with noise.
+
