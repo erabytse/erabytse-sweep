@@ -15,6 +15,18 @@
 - **100% offline, no tracking, no AI**  
 - Pure Python — no external dependencies
 
+Part of **[erabytse](https://erabytse.github.io)** — a quiet rebellion against digital waste.
+
+Made with care, not with noise.
+
+## 💙 Support
+If you use and value this tool, consider supporting its development:  
+[![Sponsor](https://img.shields.io/badge/sponsor-erabytse-181717?logo=github)](https://github.com/sponsors/takouzlo)
+
+📜 License
+MIT — but used with intention.
+
+
 ## 🚀 Quick Start
 
 ### Install from PyPI
@@ -29,10 +41,5 @@ erabytse-sweep --path ./my_old_projects --ritual
 A journal file (.erabytse_journal.json) will be created in the target folder.
 No file is ever deleted automatically — you decide what happens next. 
 
-📜 License
-MIT — but used with intention.
 
-Part of **[erabytse](https://erabytse.github.io)** — a quiet rebellion against digital waste.
-
-Made with care, not with noise.
 
