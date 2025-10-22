@@ -30,8 +30,9 @@ MIT — but used with intention.
 ## 🚀 Quick Start
 
 ### Install from PyPI
+
 bash
-pip install erabytse-swee
+pip install erabytse-sweep
 
 Run a dry run
 erabytse-sweep --path ~/Downloads --days 60 --dry-run
@@ -40,6 +41,7 @@ Begin the ritual
 erabytse-sweep --path ./my_old_projects --ritual
 A journal file (.erabytse_journal.json) will be created in the target folder.
 No file is ever deleted automatically — you decide what happens next. 
+
 
 
 
